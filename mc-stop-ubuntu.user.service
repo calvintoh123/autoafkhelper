@@ -1,0 +1,11 @@
+[Unit]
+Description=Minecraft stop automation (user session)
+After=graphical-session.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/home/afkhelper1/Documents/code/autoafkhelper
+ExecStart=/usr/bin/env bash /home/afkhelper1/Documents/code/autoafkhelper/mc_stop_ubuntu.sh
+
+[Install]
+WantedBy=default.target

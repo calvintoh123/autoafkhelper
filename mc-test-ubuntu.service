@@ -1,0 +1,20 @@
+[Unit]
+Description=Minecraft launcher automation
+After=graphical.target network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=afkhelper1
+Group=afkhelper1
+WorkingDirectory=/home/afkhelper1/Documents/code/autoafkhelper
+Environment=DISPLAY=:0
+Environment=XAUTHORITY=/home/afkhelper1/.Xauthority
+Environment=XDG_RUNTIME_DIR=/run/user/1002
+Environment=DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1002/bus
+ExecStart=/usr/bin/env bash /home/afkhelper1/Documents/code/autoafkhelper/mc_test_ubuntu.sh
+Restart=on-failure
+RestartSec=10
+
+[Install]
+WantedBy=graphical.target

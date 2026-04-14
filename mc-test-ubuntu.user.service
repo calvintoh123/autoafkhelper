@@ -1,0 +1,14 @@
+[Unit]
+Description=Minecraft launcher automation (user session)
+After=graphical-session.target network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/afkhelper1/Documents/code/autoafkhelper
+ExecStart=/usr/bin/env bash /home/afkhelper1/Documents/code/autoafkhelper/mc_test_ubuntu.sh
+Restart=on-failure
+RestartSec=10
+
+[Install]
+WantedBy=default.target
