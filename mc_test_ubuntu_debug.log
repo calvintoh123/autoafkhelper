@@ -2504,3 +2504,820 @@ Downloading Versionsdb "https://raw.githubusercontent.com/minecraft-linux/mcpela
 Downloading Versionsdb "https://raw.githubusercontent.com/minecraft-linux/mcpelauncher-versiondb/v1.5.x/versions.x86_64.json.min"
 Version list loaded, entry count: 1850
 qml: Versionslist initialized
+Qt: Session management error: Could not open network socket
+qml: onModelChanged: -1null
+qrc:/qml/main.qml:78:5: QML Connections: Implicitly defined onFoo properties in Connections are deprecated. Use this syntax instead: function onFoo(<arguments>) { ... }
+Downloading Versionsdb "https://raw.githubusercontent.com/minecraft-linux/mcpelauncher-versiondb/v1.5.x/versions.armeabi-v7a.json.min"
+Downloading Versionsdb "https://raw.githubusercontent.com/minecraft-linux/mcpelauncher-versiondb/v1.5.x/versions.arm64-v8a.json.min"
+Downloading Versionsdb "https://raw.githubusercontent.com/minecraft-linux/mcpelauncher-versiondb/v1.5.x/versions.x86.json.min"
+Downloading Versionsdb "https://raw.githubusercontent.com/minecraft-linux/mcpelauncher-versiondb/v1.5.x/versions.x86_64.json.min"
+Version list loaded, entry count: 1850
+qml: Versionslist initialized
+
+==== 2026-04-15 03:25:24 ====
+-- active window --
+Linux Minecraft Launcher
+-- launcher windows --
+8388612
+58720273
+-- ps filtered --
+5788 bwrap --args 40 -- mcpelauncher-ui-qt -v
+5814 bwrap --args 40 -- mcpelauncher-ui-qt -v
+5815 mcpelauncher-ui-qt -v
+-- before launcher sequence --
+active_id=58720273
+active_name=Linux Minecraft Launcher
+active_class=
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"objectName":"","versionName":"1.21.114.1","versionCode":982111401,"isBeta":false,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:27:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"objectName":"","versionName":"1.21.114.1","versionCode":982111401,"isBeta":false,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:28:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"objectName":"","versionName":"1.21.114.1","versionCode":982111401,"isBeta":false,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:29:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"objectName":"","versionName":"1.21.114.1","versionCode":982111401,"isBeta":false,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:200:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"objectName":"","versionName":"1.21.114.1","versionCode":982111401,"isBeta":false,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:201:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:53:13 depends on non-bindable properties:
+    LauncherSettings::gameDataDir
+qml: Profile mods ["/home/afkhelper1/.var/app/io.mrarm.mcpelauncher/data/mcpelauncher/mods/mcpelauncher-updates/26.10.4.2/x86_64/"]
+qml:  - /home/afkhelper1/.var/app/io.mrarm.mcpelauncher/data/mcpelauncher/mods/mcpelauncher-updates/26.10.4.2/x86_64/
+qml: {"name":"","version":"","arch":"x86_64","metadata":{"arch":"x86_64","metadata":{"description":"A mod for mcpelauncher to allow 1.21.124, 1.21.130 to run, better integration in future 1.6.x","image":"https://avatars.githubusercontent.com/u/44845461?v=4","name":"mcpelauncher-updates","url":"https://github.com/minecraft-linux/mcpelauncher-manifest/issues/1511","versions":[{"assets":{"arm64-v8a":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v0.0.2/mcpelauncher-updates-arm64-release.zip","x86_64":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v0.0.2/mcpelauncher-updates-x86_64-release.zip"},"extraVersions":[{"codes":{"arm64-v8a":972113003,"x86_64":982113003},"version_name":"1.21.130.3"},{"codes":{"arm64-v8a":972113101},"version_name":"1.21.131.1"}],"minecraft":">= 1.21.121","version":"0.0.2"},{"assets":{"arm64-v8a":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v0.0.2/mcpelauncher-updates-arm64-release.zip"},"extraVersions":[{"codes":{"arm64-v8a":972113003},"version_name":"1.21.130.3"},{"codes":{"arm64-v8a":972113101},"version_name":"1.21.131.1"},{"codes":{"arm64-v8a":972113201},"version_name":"1.21.132.1"}],"minecraft":">= 1.21.121","version":"1.21.132.1"},{"assets":{"arm64-v8a":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v0.0.2/mcpelauncher-updates-arm64-release.zip","x86_64":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v26.0.2/mcpelauncher-updates-x86_64-release.zip"},"extraVersions":[{"codes":{"arm64-v8a":972113003,"x86_64":982113003},"version_name":"1.21.130.3"},{"codes":{"arm64-v8a":972113101},"version_name":"1.21.131.1"},{"codes":{"arm64-v8a":972113201},"version_name":"1.21.132.1"},{"codes":{"arm64-v8a":972600002,"x86_64":982600002},"version_name":"1.26.0.2"}],"minecraft":">= 1.21.121","version":"26.0.2"},{"assets":{"arm64-v8a":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v26.10.4/mcpelauncher-updates-arm64-release.zip","x86_64":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v26.10.4/mcpelauncher-updates-x86_64-release.zip"},"extraVersions":[{"codes":{"x86_64":982112101},"version_name":"1.21.121.1"},{"codes":{"x86_64":982112402},"version_name":"1.21.124.2"},{"codes":{"arm64-v8a":972113003,"x86_64":982113003},"version_name":"1.21.130.3"},{"codes":{"arm64-v8a":972113101},"version_name":"1.21.131.1"},{"codes":{"arm64-v8a":972113201},"version_name":"1.21.132.1"},{"codes":{"arm64-v8a":972600002,"x86_64":982600002},"version_name":"1.26.0.2"},{"codes":{"arm64-v8a":972600101,"x86_64":982600101},"version_name":"1.26.1.1"},{"codes":{"arm64-v8a":972600201,"x86_64":982600201},"version_name":"1.26.2.1"},{"codes":{"arm64-v8a":972600301,"x86_64":982600301},"version_name":"1.26.3.1"},{"codes":{"arm64-v8a":972601004,"x86_64":982601004},"version_name":"1.26.10.4"}],"minecraft":">= 1.21.121","version":"26.10.4"},{"assets":{"arm64-v8a":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v26.10.4.2/mcpelauncher-updates-arm64-release.zip","x86_64":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v26.10.4.2/mcpelauncher-updates-x86_64-release.zip"},"extraVersions":[{"codes":{"x86_64":982112101},"version_name":"1.21.121.1"},{"codes":{"x86_64":982112402},"version_name":"1.21.124.2"},{"codes":{"arm64-v8a":972113003,"x86_64":982113003},"version_name":"1.21.130.3"},{"codes":{"arm64-v8a":972113101},"version_name":"1.21.131.1"},{"codes":{"arm64-v8a":972113201},"version_name":"1.21.132.1"},{"codes":{"arm64-v8a":972600002,"x86_64":982600002},"version_name":"1.26.0.2"},{"codes":{"arm64-v8a":972600101,"x86_64":982600101},"version_name":"1.26.1.1"},{"codes":{"arm64-v8a":972600201,"x86_64":982600201},"version_name":"1.26.2.1"},{"codes":{"arm64-v8a":972600301,"x86_64":982600301},"version_name":"1.26.3.1"},{"codes":{"arm64-v8a":972601004,"x86_64":982601004},"version_name":"1.26.10.4"}],"minecraft":">= 1.21.121","version":"26.10.4.2"}]},"version":{"assets":{"arm64-v8a":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v26.10.4.2/mcpelauncher-updates-arm64-release.zip","x86_64":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v26.10.4.2/mcpelauncher-updates-x86_64-release.zip"},"extraVersions":[{"codes":{"x86_64":982112101},"version_name":"1.21.121.1"},{"codes":{"x86_64":982112402},"version_name":"1.21.124.2"},{"codes":{"arm64-v8a":972113003,"x86_64":982113003},"version_name":"1.21.130.3"},{"codes":{"arm64-v8a":972113101},"version_name":"1.21.131.1"},{"codes":{"arm64-v8a":972113201},"version_name":"1.21.132.1"},{"codes":{"arm64-v8a":972600002,"x86_64":982600002},"version_name":"1.26.0.2"},{"codes":{"arm64-v8a":972600101,"x86_64":982600101},"version_name":"1.26.1.1"},{"codes":{"arm64-v8a":972600201,"x86_64":982600201},"version_name":"1.26.2.1"},{"codes":{"arm64-v8a":972600301,"x86_64":982600301},"version_name":"1.26.3.1"},{"codes":{"arm64-v8a":972601004,"x86_64":982601004},"version_name":"1.26.10.4"}],"minecraft":">= 1.21.121","version":"26.10.4.2"}}}
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:27:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:28:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:29:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:200:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:201:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+UpdateManager::checkForUpdates()
+UpdateManager::checkForUpdates() downloadModList for checking
+qrc:/qml/HomeScreen.qml:295: TypeError: Cannot read property 'url' of null
+qrc:/qml/HomeScreen.qml:294: TypeError: Cannot read property 'version' of null
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:27:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:28:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:29:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:200:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:201:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:27:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:28:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:29:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:200:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:201:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:27:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:28:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:29:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:200:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:201:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Version name not found
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+qml: Game dir = /home/afkhelper1/.var/app/io.mrarm.mcpelauncher/data/mcpelauncher/versions/1.26.10.4
+Qt: Session management error: Could not open network socket
+qml: onModelChanged: -1null
+qrc:/qml/main.qml:78:5: QML Connections: Implicitly defined onFoo properties in Connections are deprecated. Use this syntax instead: function onFoo(<arguments>) { ... }
+Downloading Versionsdb "https://raw.githubusercontent.com/minecraft-linux/mcpelauncher-versiondb/v1.5.x/versions.armeabi-v7a.json.min"
+Downloading Versionsdb "https://raw.githubusercontent.com/minecraft-linux/mcpelauncher-versiondb/v1.5.x/versions.arm64-v8a.json.min"
+Downloading Versionsdb "https://raw.githubusercontent.com/minecraft-linux/mcpelauncher-versiondb/v1.5.x/versions.x86.json.min"
+Downloading Versionsdb "https://raw.githubusercontent.com/minecraft-linux/mcpelauncher-versiondb/v1.5.x/versions.x86_64.json.min"
+Version list loaded, entry count: 1850
+qml: Versionslist initialized
+
+==== 2026-04-15 03:26:16 ====
+-- active window --
+Linux Minecraft Launcher
+-- launcher windows --
+8388662
+56623121
+-- ps filtered --
+6496 bwrap --args 38 -- mcpelauncher-ui-qt -v
+6515 bwrap --args 38 -- mcpelauncher-ui-qt -v
+6516 mcpelauncher-ui-qt -v
+-- before launcher sequence --
+active_id=56623121
+active_name=Linux Minecraft Launcher
+active_class=
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"objectName":"","versionName":"1.21.114.1","versionCode":982111401,"isBeta":false,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:27:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"objectName":"","versionName":"1.21.114.1","versionCode":982111401,"isBeta":false,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:28:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"objectName":"","versionName":"1.21.114.1","versionCode":982111401,"isBeta":false,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:29:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"objectName":"","versionName":"1.21.114.1","versionCode":982111401,"isBeta":false,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:200:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"objectName":"","versionName":"1.21.114.1","versionCode":982111401,"isBeta":false,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:201:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:53:13 depends on non-bindable properties:
+    LauncherSettings::gameDataDir
+qml: Profile mods ["/home/afkhelper1/.var/app/io.mrarm.mcpelauncher/data/mcpelauncher/mods/mcpelauncher-updates/26.10.4.2/x86_64/"]
+qml:  - /home/afkhelper1/.var/app/io.mrarm.mcpelauncher/data/mcpelauncher/mods/mcpelauncher-updates/26.10.4.2/x86_64/
+qml: {"name":"","version":"","arch":"x86_64","metadata":{"arch":"x86_64","metadata":{"description":"A mod for mcpelauncher to allow 1.21.124, 1.21.130 to run, better integration in future 1.6.x","image":"https://avatars.githubusercontent.com/u/44845461?v=4","name":"mcpelauncher-updates","url":"https://github.com/minecraft-linux/mcpelauncher-manifest/issues/1511","versions":[{"assets":{"arm64-v8a":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v0.0.2/mcpelauncher-updates-arm64-release.zip","x86_64":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v0.0.2/mcpelauncher-updates-x86_64-release.zip"},"extraVersions":[{"codes":{"arm64-v8a":972113003,"x86_64":982113003},"version_name":"1.21.130.3"},{"codes":{"arm64-v8a":972113101},"version_name":"1.21.131.1"}],"minecraft":">= 1.21.121","version":"0.0.2"},{"assets":{"arm64-v8a":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v0.0.2/mcpelauncher-updates-arm64-release.zip"},"extraVersions":[{"codes":{"arm64-v8a":972113003},"version_name":"1.21.130.3"},{"codes":{"arm64-v8a":972113101},"version_name":"1.21.131.1"},{"codes":{"arm64-v8a":972113201},"version_name":"1.21.132.1"}],"minecraft":">= 1.21.121","version":"1.21.132.1"},{"assets":{"arm64-v8a":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v0.0.2/mcpelauncher-updates-arm64-release.zip","x86_64":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v26.0.2/mcpelauncher-updates-x86_64-release.zip"},"extraVersions":[{"codes":{"arm64-v8a":972113003,"x86_64":982113003},"version_name":"1.21.130.3"},{"codes":{"arm64-v8a":972113101},"version_name":"1.21.131.1"},{"codes":{"arm64-v8a":972113201},"version_name":"1.21.132.1"},{"codes":{"arm64-v8a":972600002,"x86_64":982600002},"version_name":"1.26.0.2"}],"minecraft":">= 1.21.121","version":"26.0.2"},{"assets":{"arm64-v8a":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v26.10.4/mcpelauncher-updates-arm64-release.zip","x86_64":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v26.10.4/mcpelauncher-updates-x86_64-release.zip"},"extraVersions":[{"codes":{"x86_64":982112101},"version_name":"1.21.121.1"},{"codes":{"x86_64":982112402},"version_name":"1.21.124.2"},{"codes":{"arm64-v8a":972113003,"x86_64":982113003},"version_name":"1.21.130.3"},{"codes":{"arm64-v8a":972113101},"version_name":"1.21.131.1"},{"codes":{"arm64-v8a":972113201},"version_name":"1.21.132.1"},{"codes":{"arm64-v8a":972600002,"x86_64":982600002},"version_name":"1.26.0.2"},{"codes":{"arm64-v8a":972600101,"x86_64":982600101},"version_name":"1.26.1.1"},{"codes":{"arm64-v8a":972600201,"x86_64":982600201},"version_name":"1.26.2.1"},{"codes":{"arm64-v8a":972600301,"x86_64":982600301},"version_name":"1.26.3.1"},{"codes":{"arm64-v8a":972601004,"x86_64":982601004},"version_name":"1.26.10.4"}],"minecraft":">= 1.21.121","version":"26.10.4"},{"assets":{"arm64-v8a":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v26.10.4.2/mcpelauncher-updates-arm64-release.zip","x86_64":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v26.10.4.2/mcpelauncher-updates-x86_64-release.zip"},"extraVersions":[{"codes":{"x86_64":982112101},"version_name":"1.21.121.1"},{"codes":{"x86_64":982112402},"version_name":"1.21.124.2"},{"codes":{"arm64-v8a":972113003,"x86_64":982113003},"version_name":"1.21.130.3"},{"codes":{"arm64-v8a":972113101},"version_name":"1.21.131.1"},{"codes":{"arm64-v8a":972113201},"version_name":"1.21.132.1"},{"codes":{"arm64-v8a":972600002,"x86_64":982600002},"version_name":"1.26.0.2"},{"codes":{"arm64-v8a":972600101,"x86_64":982600101},"version_name":"1.26.1.1"},{"codes":{"arm64-v8a":972600201,"x86_64":982600201},"version_name":"1.26.2.1"},{"codes":{"arm64-v8a":972600301,"x86_64":982600301},"version_name":"1.26.3.1"},{"codes":{"arm64-v8a":972601004,"x86_64":982601004},"version_name":"1.26.10.4"}],"minecraft":">= 1.21.121","version":"26.10.4.2"}]},"version":{"assets":{"arm64-v8a":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v26.10.4.2/mcpelauncher-updates-arm64-release.zip","x86_64":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v26.10.4.2/mcpelauncher-updates-x86_64-release.zip"},"extraVersions":[{"codes":{"x86_64":982112101},"version_name":"1.21.121.1"},{"codes":{"x86_64":982112402},"version_name":"1.21.124.2"},{"codes":{"arm64-v8a":972113003,"x86_64":982113003},"version_name":"1.21.130.3"},{"codes":{"arm64-v8a":972113101},"version_name":"1.21.131.1"},{"codes":{"arm64-v8a":972113201},"version_name":"1.21.132.1"},{"codes":{"arm64-v8a":972600002,"x86_64":982600002},"version_name":"1.26.0.2"},{"codes":{"arm64-v8a":972600101,"x86_64":982600101},"version_name":"1.26.1.1"},{"codes":{"arm64-v8a":972600201,"x86_64":982600201},"version_name":"1.26.2.1"},{"codes":{"arm64-v8a":972600301,"x86_64":982600301},"version_name":"1.26.3.1"},{"codes":{"arm64-v8a":972601004,"x86_64":982601004},"version_name":"1.26.10.4"}],"minecraft":">= 1.21.121","version":"26.10.4.2"}}}
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:27:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:28:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:29:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:200:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:201:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+UpdateManager::checkForUpdates()
+UpdateManager::checkForUpdates() downloadModList for checking
+qrc:/qml/HomeScreen.qml:295: TypeError: Cannot read property 'url' of null
+qrc:/qml/HomeScreen.qml:294: TypeError: Cannot read property 'version' of null
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:27:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:28:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:29:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:200:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:201:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:27:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:28:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:29:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:200:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:201:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:27:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:28:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:29:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:200:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:201:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Version name not found
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+qml: Game dir = /home/afkhelper1/.var/app/io.mrarm.mcpelauncher/data/mcpelauncher/versions/1.26.10.4
+-- after launcher sequence --
+active_id=62914614
+active_name=Minecraft
+active_class=
+
+==== 2026-04-15 03:26:52 ====
+-- active window --
+Minecraft
+-- launcher windows --
+8388673
+62914614
+-- ps filtered --
+6496 bwrap --args 38 -- mcpelauncher-ui-qt -v
+6515 bwrap --args 38 -- mcpelauncher-ui-qt -v
+6516 mcpelauncher-ui-qt -v
+6739 /app/bin/mcpelauncher-client -dg /home/afkhelper1/.var/app/io.mrarm.mcpelauncher/data/mcpelauncher/versions/1.26.10.4 -ww 1280 -wh 720 -m /home/afkhelper1/.var/app/io.mrarm.mcpelauncher/data/mcpelauncher/mods/mcpelauncher-updates/26.10.4.2/x86_64/
+
+==== 2026-04-15 03:26:55 ====
+-- active window --
+Minecraft
+-- launcher windows --
+8388673
+62914614
+-- ps filtered --
+6496 bwrap --args 38 -- mcpelauncher-ui-qt -v
+6515 bwrap --args 38 -- mcpelauncher-ui-qt -v
+6516 mcpelauncher-ui-qt -v
+6739 /app/bin/mcpelauncher-client -dg /home/afkhelper1/.var/app/io.mrarm.mcpelauncher/data/mcpelauncher/versions/1.26.10.4 -ww 1280 -wh 720 -m /home/afkhelper1/.var/app/io.mrarm.mcpelauncher/data/mcpelauncher/mods/mcpelauncher-updates/26.10.4.2/x86_64/
+Qt: Session management error: Could not open network socket
+qml: onModelChanged: -1null
+qrc:/qml/main.qml:78:5: QML Connections: Implicitly defined onFoo properties in Connections are deprecated. Use this syntax instead: function onFoo(<arguments>) { ... }
+Downloading Versionsdb "https://raw.githubusercontent.com/minecraft-linux/mcpelauncher-versiondb/v1.5.x/versions.armeabi-v7a.json.min"
+Downloading Versionsdb "https://raw.githubusercontent.com/minecraft-linux/mcpelauncher-versiondb/v1.5.x/versions.arm64-v8a.json.min"
+Downloading Versionsdb "https://raw.githubusercontent.com/minecraft-linux/mcpelauncher-versiondb/v1.5.x/versions.x86.json.min"
+Downloading Versionsdb "https://raw.githubusercontent.com/minecraft-linux/mcpelauncher-versiondb/v1.5.x/versions.x86_64.json.min"
+Version list loaded, entry count: 1850
+qml: Versionslist initialized
+
+==== 2026-04-15 19:33:35 ====
+-- active window --
+Linux Minecraft Launcher
+-- launcher windows --
+8388612
+60817425
+-- ps filtered --
+10550 bwrap --args 40 -- mcpelauncher-ui-qt -v
+10580 bwrap --args 40 -- mcpelauncher-ui-qt -v
+10581 mcpelauncher-ui-qt -v
+-- before launcher sequence --
+active_id=60817425
+active_name=Linux Minecraft Launcher
+active_class=
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"objectName":"","versionName":"1.21.114.1","versionCode":982111401,"isBeta":false,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:27:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"objectName":"","versionName":"1.21.114.1","versionCode":982111401,"isBeta":false,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:28:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"objectName":"","versionName":"1.21.114.1","versionCode":982111401,"isBeta":false,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:29:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"objectName":"","versionName":"1.21.114.1","versionCode":982111401,"isBeta":false,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:200:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"objectName":"","versionName":"1.21.114.1","versionCode":982111401,"isBeta":false,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:201:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:53:13 depends on non-bindable properties:
+    LauncherSettings::gameDataDir
+qml: Profile mods ["/home/afkhelper1/.var/app/io.mrarm.mcpelauncher/data/mcpelauncher/mods/mcpelauncher-updates/26.10.4.2/x86_64/"]
+qml:  - /home/afkhelper1/.var/app/io.mrarm.mcpelauncher/data/mcpelauncher/mods/mcpelauncher-updates/26.10.4.2/x86_64/
+qml: {"name":"","version":"","arch":"x86_64","metadata":{"arch":"x86_64","metadata":{"description":"A mod for mcpelauncher to allow 1.21.124, 1.21.130 to run, better integration in future 1.6.x","image":"https://avatars.githubusercontent.com/u/44845461?v=4","name":"mcpelauncher-updates","url":"https://github.com/minecraft-linux/mcpelauncher-manifest/issues/1511","versions":[{"assets":{"arm64-v8a":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v0.0.2/mcpelauncher-updates-arm64-release.zip","x86_64":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v0.0.2/mcpelauncher-updates-x86_64-release.zip"},"extraVersions":[{"codes":{"arm64-v8a":972113003,"x86_64":982113003},"version_name":"1.21.130.3"},{"codes":{"arm64-v8a":972113101},"version_name":"1.21.131.1"}],"minecraft":">= 1.21.121","version":"0.0.2"},{"assets":{"arm64-v8a":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v0.0.2/mcpelauncher-updates-arm64-release.zip"},"extraVersions":[{"codes":{"arm64-v8a":972113003},"version_name":"1.21.130.3"},{"codes":{"arm64-v8a":972113101},"version_name":"1.21.131.1"},{"codes":{"arm64-v8a":972113201},"version_name":"1.21.132.1"}],"minecraft":">= 1.21.121","version":"1.21.132.1"},{"assets":{"arm64-v8a":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v0.0.2/mcpelauncher-updates-arm64-release.zip","x86_64":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v26.0.2/mcpelauncher-updates-x86_64-release.zip"},"extraVersions":[{"codes":{"arm64-v8a":972113003,"x86_64":982113003},"version_name":"1.21.130.3"},{"codes":{"arm64-v8a":972113101},"version_name":"1.21.131.1"},{"codes":{"arm64-v8a":972113201},"version_name":"1.21.132.1"},{"codes":{"arm64-v8a":972600002,"x86_64":982600002},"version_name":"1.26.0.2"}],"minecraft":">= 1.21.121","version":"26.0.2"},{"assets":{"arm64-v8a":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v26.10.4/mcpelauncher-updates-arm64-release.zip","x86_64":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v26.10.4/mcpelauncher-updates-x86_64-release.zip"},"extraVersions":[{"codes":{"x86_64":982112101},"version_name":"1.21.121.1"},{"codes":{"x86_64":982112402},"version_name":"1.21.124.2"},{"codes":{"arm64-v8a":972113003,"x86_64":982113003},"version_name":"1.21.130.3"},{"codes":{"arm64-v8a":972113101},"version_name":"1.21.131.1"},{"codes":{"arm64-v8a":972113201},"version_name":"1.21.132.1"},{"codes":{"arm64-v8a":972600002,"x86_64":982600002},"version_name":"1.26.0.2"},{"codes":{"arm64-v8a":972600101,"x86_64":982600101},"version_name":"1.26.1.1"},{"codes":{"arm64-v8a":972600201,"x86_64":982600201},"version_name":"1.26.2.1"},{"codes":{"arm64-v8a":972600301,"x86_64":982600301},"version_name":"1.26.3.1"},{"codes":{"arm64-v8a":972601004,"x86_64":982601004},"version_name":"1.26.10.4"}],"minecraft":">= 1.21.121","version":"26.10.4"},{"assets":{"arm64-v8a":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v26.10.4.2/mcpelauncher-updates-arm64-release.zip","x86_64":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v26.10.4.2/mcpelauncher-updates-x86_64-release.zip"},"extraVersions":[{"codes":{"x86_64":982112101},"version_name":"1.21.121.1"},{"codes":{"x86_64":982112402},"version_name":"1.21.124.2"},{"codes":{"arm64-v8a":972113003,"x86_64":982113003},"version_name":"1.21.130.3"},{"codes":{"arm64-v8a":972113101},"version_name":"1.21.131.1"},{"codes":{"arm64-v8a":972113201},"version_name":"1.21.132.1"},{"codes":{"arm64-v8a":972600002,"x86_64":982600002},"version_name":"1.26.0.2"},{"codes":{"arm64-v8a":972600101,"x86_64":982600101},"version_name":"1.26.1.1"},{"codes":{"arm64-v8a":972600201,"x86_64":982600201},"version_name":"1.26.2.1"},{"codes":{"arm64-v8a":972600301,"x86_64":982600301},"version_name":"1.26.3.1"},{"codes":{"arm64-v8a":972601004,"x86_64":982601004},"version_name":"1.26.10.4"}],"minecraft":">= 1.21.121","version":"26.10.4.2"}]},"version":{"assets":{"arm64-v8a":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v26.10.4.2/mcpelauncher-updates-arm64-release.zip","x86_64":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v26.10.4.2/mcpelauncher-updates-x86_64-release.zip"},"extraVersions":[{"codes":{"x86_64":982112101},"version_name":"1.21.121.1"},{"codes":{"x86_64":982112402},"version_name":"1.21.124.2"},{"codes":{"arm64-v8a":972113003,"x86_64":982113003},"version_name":"1.21.130.3"},{"codes":{"arm64-v8a":972113101},"version_name":"1.21.131.1"},{"codes":{"arm64-v8a":972113201},"version_name":"1.21.132.1"},{"codes":{"arm64-v8a":972600002,"x86_64":982600002},"version_name":"1.26.0.2"},{"codes":{"arm64-v8a":972600101,"x86_64":982600101},"version_name":"1.26.1.1"},{"codes":{"arm64-v8a":972600201,"x86_64":982600201},"version_name":"1.26.2.1"},{"codes":{"arm64-v8a":972600301,"x86_64":982600301},"version_name":"1.26.3.1"},{"codes":{"arm64-v8a":972601004,"x86_64":982601004},"version_name":"1.26.10.4"}],"minecraft":">= 1.21.121","version":"26.10.4.2"}}}
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:27:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:28:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:29:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:200:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:201:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+UpdateManager::checkForUpdates()
+UpdateManager::checkForUpdates() downloadModList for checking
+qrc:/qml/HomeScreen.qml:295: TypeError: Cannot read property 'url' of null
+qrc:/qml/HomeScreen.qml:294: TypeError: Cannot read property 'version' of null
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:27:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:28:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:29:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:200:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:201:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:27:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:28:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:29:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:200:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:201:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:27:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:28:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:29:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:200:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:201:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Version name not found
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+qml: Game dir = /home/afkhelper1/.var/app/io.mrarm.mcpelauncher/data/mcpelauncher/versions/1.26.10.4
+-- after launcher sequence --
+active_id=67108918
+active_name=Minecraft
+active_class=
+
+==== 2026-04-15 19:34:11 ====
+-- active window --
+Minecraft
+-- launcher windows --
+8388627
+67108918
+-- ps filtered --
+10550 bwrap --args 40 -- mcpelauncher-ui-qt -v
+10580 bwrap --args 40 -- mcpelauncher-ui-qt -v
+10581 mcpelauncher-ui-qt -v
+10814 /app/bin/mcpelauncher-client -dg /home/afkhelper1/.var/app/io.mrarm.mcpelauncher/data/mcpelauncher/versions/1.26.10.4 -ww 1280 -wh 720 -m /home/afkhelper1/.var/app/io.mrarm.mcpelauncher/data/mcpelauncher/mods/mcpelauncher-updates/26.10.4.2/x86_64/
+
+==== 2026-04-15 19:34:14 ====
+-- active window --
+Minecraft
+-- launcher windows --
+8388627
+67108918
+-- ps filtered --
+10550 bwrap --args 40 -- mcpelauncher-ui-qt -v
+10580 bwrap --args 40 -- mcpelauncher-ui-qt -v
+10581 mcpelauncher-ui-qt -v
+10814 /app/bin/mcpelauncher-client -dg /home/afkhelper1/.var/app/io.mrarm.mcpelauncher/data/mcpelauncher/versions/1.26.10.4 -ww 1280 -wh 720 -m /home/afkhelper1/.var/app/io.mrarm.mcpelauncher/data/mcpelauncher/mods/mcpelauncher-updates/26.10.4.2/x86_64/
+Qt: Session management error: Could not open network socket
+qml: onModelChanged: -1null
+qrc:/qml/main.qml:78:5: QML Connections: Implicitly defined onFoo properties in Connections are deprecated. Use this syntax instead: function onFoo(<arguments>) { ... }
+Downloading Versionsdb "https://raw.githubusercontent.com/minecraft-linux/mcpelauncher-versiondb/v1.5.x/versions.armeabi-v7a.json.min"
+Downloading Versionsdb "https://raw.githubusercontent.com/minecraft-linux/mcpelauncher-versiondb/v1.5.x/versions.arm64-v8a.json.min"
+Downloading Versionsdb "https://raw.githubusercontent.com/minecraft-linux/mcpelauncher-versiondb/v1.5.x/versions.x86.json.min"
+Downloading Versionsdb "https://raw.githubusercontent.com/minecraft-linux/mcpelauncher-versiondb/v1.5.x/versions.x86_64.json.min"
+Version list loaded, entry count: 1850
+qml: Versionslist initialized
+
+==== 2026-04-15 20:04:52 ====
+-- active window --
+Linux Minecraft Launcher
+-- launcher windows --
+8388751
+60817425
+-- ps filtered --
+19886 bwrap --args 38 -- mcpelauncher-ui-qt -v
+19907 bwrap --args 38 -- mcpelauncher-ui-qt -v
+19908 mcpelauncher-ui-qt -v
+
+==== 2026-04-15 20:04:54 ====
+-- active window --
+Linux Minecraft Launcher
+-- launcher windows --
+8388751
+60817425
+-- ps filtered --
+19886 bwrap --args 38 -- mcpelauncher-ui-qt -v
+19907 bwrap --args 38 -- mcpelauncher-ui-qt -v
+19908 mcpelauncher-ui-qt -v
+
+==== 2026-04-15 20:04:57 ====
+-- active window --
+Linux Minecraft Launcher
+-- launcher windows --
+8388751
+60817425
+-- ps filtered --
+19886 bwrap --args 38 -- mcpelauncher-ui-qt -v
+19907 bwrap --args 38 -- mcpelauncher-ui-qt -v
+19908 mcpelauncher-ui-qt -v
+SAFE_MODE before exec: (null)
+Loading gamepad mappings: /app/share/mcpelauncher/gamecontrollerdb.txt
+Loading gamepad mappings: /app/share/mcpelauncher/gamecontrollerdb.txt
+Qt: Session management error: Could not open network socket
+qml: onModelChanged: -1null
+qrc:/qml/main.qml:78:5: QML Connections: Implicitly defined onFoo properties in Connections are deprecated. Use this syntax instead: function onFoo(<arguments>) { ... }
+Downloading Versionsdb "https://raw.githubusercontent.com/minecraft-linux/mcpelauncher-versiondb/v1.5.x/versions.armeabi-v7a.json.min"
+Downloading Versionsdb "https://raw.githubusercontent.com/minecraft-linux/mcpelauncher-versiondb/v1.5.x/versions.arm64-v8a.json.min"
+Downloading Versionsdb "https://raw.githubusercontent.com/minecraft-linux/mcpelauncher-versiondb/v1.5.x/versions.x86.json.min"
+Downloading Versionsdb "https://raw.githubusercontent.com/minecraft-linux/mcpelauncher-versiondb/v1.5.x/versions.x86_64.json.min"
+Version list loaded, entry count: 1850
+qml: Versionslist initialized
+
+==== 2026-04-15 20:06:55 ====
+-- active window --
+Linux Minecraft Launcher
+-- launcher windows --
+8388782
+60817425
+-- ps filtered --
+20253 bwrap --args 38 -- mcpelauncher-ui-qt -v
+20276 bwrap --args 38 -- mcpelauncher-ui-qt -v
+20277 mcpelauncher-ui-qt -v
+-- before launcher sequence --
+active_id=60817425
+active_name=Linux Minecraft Launcher
+active_class=
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"objectName":"","versionName":"1.21.114.1","versionCode":982111401,"isBeta":false,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:27:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"objectName":"","versionName":"1.21.114.1","versionCode":982111401,"isBeta":false,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:28:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"objectName":"","versionName":"1.21.114.1","versionCode":982111401,"isBeta":false,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:29:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"objectName":"","versionName":"1.21.114.1","versionCode":982111401,"isBeta":false,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:200:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"objectName":"","versionName":"1.21.114.1","versionCode":982111401,"isBeta":false,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:201:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:53:13 depends on non-bindable properties:
+    LauncherSettings::gameDataDir
+qml: Profile mods ["/home/afkhelper1/.var/app/io.mrarm.mcpelauncher/data/mcpelauncher/mods/mcpelauncher-updates/26.10.4.2/x86_64/"]
+qml:  - /home/afkhelper1/.var/app/io.mrarm.mcpelauncher/data/mcpelauncher/mods/mcpelauncher-updates/26.10.4.2/x86_64/
+qml: {"name":"","version":"","arch":"x86_64","metadata":{"arch":"x86_64","metadata":{"description":"A mod for mcpelauncher to allow 1.21.124, 1.21.130 to run, better integration in future 1.6.x","image":"https://avatars.githubusercontent.com/u/44845461?v=4","name":"mcpelauncher-updates","url":"https://github.com/minecraft-linux/mcpelauncher-manifest/issues/1511","versions":[{"assets":{"arm64-v8a":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v0.0.2/mcpelauncher-updates-arm64-release.zip","x86_64":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v0.0.2/mcpelauncher-updates-x86_64-release.zip"},"extraVersions":[{"codes":{"arm64-v8a":972113003,"x86_64":982113003},"version_name":"1.21.130.3"},{"codes":{"arm64-v8a":972113101},"version_name":"1.21.131.1"}],"minecraft":">= 1.21.121","version":"0.0.2"},{"assets":{"arm64-v8a":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v0.0.2/mcpelauncher-updates-arm64-release.zip"},"extraVersions":[{"codes":{"arm64-v8a":972113003},"version_name":"1.21.130.3"},{"codes":{"arm64-v8a":972113101},"version_name":"1.21.131.1"},{"codes":{"arm64-v8a":972113201},"version_name":"1.21.132.1"}],"minecraft":">= 1.21.121","version":"1.21.132.1"},{"assets":{"arm64-v8a":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v0.0.2/mcpelauncher-updates-arm64-release.zip","x86_64":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v26.0.2/mcpelauncher-updates-x86_64-release.zip"},"extraVersions":[{"codes":{"arm64-v8a":972113003,"x86_64":982113003},"version_name":"1.21.130.3"},{"codes":{"arm64-v8a":972113101},"version_name":"1.21.131.1"},{"codes":{"arm64-v8a":972113201},"version_name":"1.21.132.1"},{"codes":{"arm64-v8a":972600002,"x86_64":982600002},"version_name":"1.26.0.2"}],"minecraft":">= 1.21.121","version":"26.0.2"},{"assets":{"arm64-v8a":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v26.10.4/mcpelauncher-updates-arm64-release.zip","x86_64":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v26.10.4/mcpelauncher-updates-x86_64-release.zip"},"extraVersions":[{"codes":{"x86_64":982112101},"version_name":"1.21.121.1"},{"codes":{"x86_64":982112402},"version_name":"1.21.124.2"},{"codes":{"arm64-v8a":972113003,"x86_64":982113003},"version_name":"1.21.130.3"},{"codes":{"arm64-v8a":972113101},"version_name":"1.21.131.1"},{"codes":{"arm64-v8a":972113201},"version_name":"1.21.132.1"},{"codes":{"arm64-v8a":972600002,"x86_64":982600002},"version_name":"1.26.0.2"},{"codes":{"arm64-v8a":972600101,"x86_64":982600101},"version_name":"1.26.1.1"},{"codes":{"arm64-v8a":972600201,"x86_64":982600201},"version_name":"1.26.2.1"},{"codes":{"arm64-v8a":972600301,"x86_64":982600301},"version_name":"1.26.3.1"},{"codes":{"arm64-v8a":972601004,"x86_64":982601004},"version_name":"1.26.10.4"}],"minecraft":">= 1.21.121","version":"26.10.4"},{"assets":{"arm64-v8a":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v26.10.4.2/mcpelauncher-updates-arm64-release.zip","x86_64":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v26.10.4.2/mcpelauncher-updates-x86_64-release.zip"},"extraVersions":[{"codes":{"x86_64":982112101},"version_name":"1.21.121.1"},{"codes":{"x86_64":982112402},"version_name":"1.21.124.2"},{"codes":{"arm64-v8a":972113003,"x86_64":982113003},"version_name":"1.21.130.3"},{"codes":{"arm64-v8a":972113101},"version_name":"1.21.131.1"},{"codes":{"arm64-v8a":972113201},"version_name":"1.21.132.1"},{"codes":{"arm64-v8a":972600002,"x86_64":982600002},"version_name":"1.26.0.2"},{"codes":{"arm64-v8a":972600101,"x86_64":982600101},"version_name":"1.26.1.1"},{"codes":{"arm64-v8a":972600201,"x86_64":982600201},"version_name":"1.26.2.1"},{"codes":{"arm64-v8a":972600301,"x86_64":982600301},"version_name":"1.26.3.1"},{"codes":{"arm64-v8a":972601004,"x86_64":982601004},"version_name":"1.26.10.4"}],"minecraft":">= 1.21.121","version":"26.10.4.2"}]},"version":{"assets":{"arm64-v8a":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v26.10.4.2/mcpelauncher-updates-arm64-release.zip","x86_64":"https://github.com/minecraft-linux/mcpelauncher-updates/releases/download/v26.10.4.2/mcpelauncher-updates-x86_64-release.zip"},"extraVersions":[{"codes":{"x86_64":982112101},"version_name":"1.21.121.1"},{"codes":{"x86_64":982112402},"version_name":"1.21.124.2"},{"codes":{"arm64-v8a":972113003,"x86_64":982113003},"version_name":"1.21.130.3"},{"codes":{"arm64-v8a":972113101},"version_name":"1.21.131.1"},{"codes":{"arm64-v8a":972113201},"version_name":"1.21.132.1"},{"codes":{"arm64-v8a":972600002,"x86_64":982600002},"version_name":"1.26.0.2"},{"codes":{"arm64-v8a":972600101,"x86_64":982600101},"version_name":"1.26.1.1"},{"codes":{"arm64-v8a":972600201,"x86_64":982600201},"version_name":"1.26.2.1"},{"codes":{"arm64-v8a":972600301,"x86_64":982600301},"version_name":"1.26.3.1"},{"codes":{"arm64-v8a":972601004,"x86_64":982601004},"version_name":"1.26.10.4"}],"minecraft":">= 1.21.121","version":"26.10.4.2"}}}
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:27:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:28:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:29:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:200:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:201:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+UpdateManager::checkForUpdates()
+UpdateManager::checkForUpdates() downloadModList for checking
+qrc:/qml/HomeScreen.qml:295: TypeError: Cannot read property 'url' of null
+qrc:/qml/HomeScreen.qml:294: TypeError: Cannot read property 'version' of null
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:27:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:28:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:29:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:200:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:201:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:27:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:28:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:29:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:200:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:201:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:27:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:28:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:29:5 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:200:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+QQmlExpression: Expression qrc:/qml/HomeScreen.qml:201:21 depends on non-bindable properties:
+    GoogleLoginHelper::chromeOS
+qml: Version name not found
+qml: Query version
+qml: Use compat version
+qml: launcherAbis: ["x86_64"]
+qml: launcherLatestVersion: {"versionName":"1.26.10.4","versionCode":982601004,"abi":"x86_64"}
+qml: Game dir = /home/afkhelper1/.var/app/io.mrarm.mcpelauncher/data/mcpelauncher/versions/1.26.10.4
+-- after launcher sequence --
+active_id=67108918
+active_name=Minecraft
+active_class=
+
+==== 2026-04-15 20:07:32 ====
+-- active window --
+Minecraft
+-- launcher windows --
+8388792
+67108918
+-- ps filtered --
+20253 bwrap --args 38 -- mcpelauncher-ui-qt -v
+20276 bwrap --args 38 -- mcpelauncher-ui-qt -v
+20277 mcpelauncher-ui-qt -v
+20502 /app/bin/mcpelauncher-client -dg /home/afkhelper1/.var/app/io.mrarm.mcpelauncher/data/mcpelauncher/versions/1.26.10.4 -ww 1280 -wh 720 -m /home/afkhelper1/.var/app/io.mrarm.mcpelauncher/data/mcpelauncher/mods/mcpelauncher-updates/26.10.4.2/x86_64/
+
+==== 2026-04-15 20:07:35 ====
+-- active window --
+Minecraft
+-- launcher windows --
+8388792
+67108918
+-- ps filtered --
+20253 bwrap --args 38 -- mcpelauncher-ui-qt -v
+20276 bwrap --args 38 -- mcpelauncher-ui-qt -v
+20277 mcpelauncher-ui-qt -v
+20502 /app/bin/mcpelauncher-client -dg /home/afkhelper1/.var/app/io.mrarm.mcpelauncher/data/mcpelauncher/versions/1.26.10.4 -ww 1280 -wh 720 -m /home/afkhelper1/.var/app/io.mrarm.mcpelauncher/data/mcpelauncher/mods/mcpelauncher-updates/26.10.4.2/x86_64/
+Qt: Session management error: Could not open network socket
+qml: onModelChanged: -1null
+qrc:/qml/main.qml:78:5: QML Connections: Implicitly defined onFoo properties in Connections are deprecated. Use this syntax instead: function onFoo(<arguments>) { ... }
+Downloading Versionsdb "https://raw.githubusercontent.com/minecraft-linux/mcpelauncher-versiondb/v1.5.x/versions.armeabi-v7a.json.min"
+Downloading Versionsdb "https://raw.githubusercontent.com/minecraft-linux/mcpelauncher-versiondb/v1.5.x/versions.arm64-v8a.json.min"
+Downloading Versionsdb "https://raw.githubusercontent.com/minecraft-linux/mcpelauncher-versiondb/v1.5.x/versions.x86.json.min"
+Downloading Versionsdb "https://raw.githubusercontent.com/minecraft-linux/mcpelauncher-versiondb/v1.5.x/versions.x86_64.json.min"
+Version list loaded, entry count: 1850
+qml: Versionslist initialized
+SAFE_MODE before exec: (null)
+Loading gamepad mappings: /app/share/mcpelauncher/gamecontrollerdb.txt
+Loading gamepad mappings: /app/share/mcpelauncher/gamecontrollerdb.txt

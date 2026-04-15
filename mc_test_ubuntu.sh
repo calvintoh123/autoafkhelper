@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+cd "$(dirname "$0")" || exit 1
 set -euo pipefail
 
 DEBUG_LOG="${MC_DEBUG_LOG:-mc_test_ubuntu_debug.log}"
